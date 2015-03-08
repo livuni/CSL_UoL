@@ -22,3 +22,5 @@ For those who want to get started, here is a quick ‘n’ dirty installation gu
     5. Select the Harvard – University of Liverpool one as default
     6. Install the Zotero word processor add-in
     7. Start using (per manuals on Zotero website)
+
+To install .CSL file into Papers 3, simple drag and drop into Papers application.
